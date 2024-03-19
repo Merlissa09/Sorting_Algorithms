@@ -57,6 +57,10 @@ public class Project {
         }
     }
 
+    public static void InsertSort(int[] arr) {
+    }
+
+
     // public static void Swap() {
         
     // }
